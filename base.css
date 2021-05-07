@@ -65,7 +65,7 @@ blockquote {
   background-color: var(--gray-200);
   padding: var(--p-lg);
   border-radius: var(--rounded-lg);
-  margin: 0;
+  margin: 1rem 0;
 }
 
 pre {
