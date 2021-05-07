@@ -10,8 +10,8 @@
   --bg: white;
   --text: black;
 
-  --primary: #6366F1;
-  --accent: #EC4899;
+  --primary: #6366f1;
+  --accent: #ec4899;
 
   --gray-100: #f3f4f6;
   --gray-200: #e5e7eb;
@@ -30,7 +30,7 @@
     --bg: black;
     --text: white;
     --gray-100: #111827;
-    --gray-200: #1F2937;
+    --gray-200: #1f2937;
     --gray-300: #374151;
   }
 }
