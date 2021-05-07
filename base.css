@@ -27,7 +27,6 @@ body {
   flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
-  line-height: 2;
 }
 
 header {
@@ -35,6 +34,10 @@ header {
   padding: var(--p-lg);
   border-radius: var(--rounded-lg);
   margin: 2rem 0;
+}
+
+main {
+  line-height: 2;
 }
 
 footer {
