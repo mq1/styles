@@ -40,7 +40,7 @@ body {
   color: var(--text);
   font-family: var(--font-sans);
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 750px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -51,15 +51,16 @@ header {
   background-color: var(--gray-200);
   padding: var(--p-lg);
   border-radius: var(--rounded-lg);
-  margin: 2rem 0;
+  margin: 2rem;
 }
 
 main {
   line-height: 2;
+  margin: 0 2rem;
 }
 
 footer {
-  margin: 2rem 0;
+  margin: 2rem;
 }
 
 mark {
