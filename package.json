@@ -1,0 +1,21 @@
+{
+  "name": "styles",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "base.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mq1/styles.git"
+  },
+  "keywords": [],
+  "author": "Manuel Quarneti <manuelquarneti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mq1/styles/issues"
+  },
+  "homepage": "https://github.com/mq1/styles#readme",
+}
